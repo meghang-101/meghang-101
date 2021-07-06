@@ -11,3 +11,5 @@ Hey there 👋,
 I am a 3rd year Engineering student of Manipal Institute of Technology studying Electronics and Instrumentation. I am passionate about general electronics, IoT, hardware design and Robotics. I have a keen interest in developing embedded solutions for drone flight control systems, learning efficient algorithms for robot motion and perception. You will see all repos related to firmware design, UAVs etc. 
 I also write blogs and stuff in my free time. Head on to [medium.com](https://meghang-n.medium.com/). 
 Contact me by mail through [my_personal_website.com](https://meghangn.wixsite.com/website-1).
+Living in 📍Mumbai📍, 
+Chillin in 📍Manipal📍
